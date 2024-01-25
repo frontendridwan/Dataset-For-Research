@@ -1,0 +1,6 @@
+iris.csv
+Dataset spesies bunga Iris, dengan kolom "Species" sebagai Label (Iris-setosa, Iris-versicolor, Iris-virginica) dengan total 151 baris dataset
+
+heart.csv
+
+transfusion.scv
